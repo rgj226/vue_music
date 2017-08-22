@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?medaac');
+  src:  url('../fonts/icomoon.eot?medaac#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?medaac') format('truetype'),
+    url('../fonts/icomoon.woff?medaac') format('woff'),
+    url('../fonts/icomoon.svg?medaac#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-onlyloop:before {
+  content: "\e900";
+}
+.icon-list:before {
+  content: "\e901";
+}
+.icon-paihang:before {
+  content: "\e902";
+}
+.icon-shangyishou:before {
+  content: "\e903";
+}
+.icon-xiayishou:before {
+  content: "\e904";
+}
+.icon-find:before {
+  content: "\e905";
+}
+.icon-random:before {
+  content: "\e906";
+}
+.icon-like:before {
+  content: "\e907";
+}
+.icon-loop:before {
+  content: "\e908";
+}
+.icon-play:before {
+  content: "\e909";
+}
+.icon-zanting:before {
+  content: "\e90a";
+}
+.icon-user:before {
+  content: "\e90b";
+}
